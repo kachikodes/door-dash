@@ -1,0 +1,328 @@
+header {
+  background:url(images/doordasher.png)  no-repeat;
+  background-size:100% 700px; 
+  height: 700px;
+  position: relative;
+}
+
+
+h1 {
+  color: rgb(252, 252, 252);
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 60px;
+  top: 120px;
+  padding-left: 450px;
+  position: absolute;
+}
+
+.a {
+  color: rgb(252, 252, 252);
+  position: absolute;
+  right: 130px;
+  top: 25px;
+  font-family: serif;
+}
+
+.aa {
+  text-decoration: none;
+  color: white;
+}
+
+.b {
+  background-color: rgb(252, 252, 252);
+  border-radius: 25px;
+  position: absolute;
+  right: 25px;
+  top: 15px;
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.bb {
+  text-decoration: none;
+  color: rgb(40, 5, 0);
+}
+
+.c {
+  position: absolute;
+  left: 200px;
+  top: 315px;
+  width: 310px;
+  height: 34px;
+  background-color: white;
+  margin-left: 400px;
+  border-radius: 30px;
+  padding: 9px;
+}
+
+.c > input {
+  position: absolute;
+  flex: 1;
+  height: 15px;
+  border: none;
+  outline: none;
+  font-size: 18px;
+  padding-left: 9px;
+  text-align: center;
+  padding: 10px 10px;
+}
+
+#locate {
+  position: absolute;
+  top: 334px;
+  left: 613px;
+}
+
+#arrow {
+  position: absolute;
+  top: 335px;
+  left: 810px;
+}
+
+.d {
+  color: white;
+  position: absolute;
+  top: 390px;
+  left: 560px;
+  margin-left: 100px;
+  text-decoration: underline;
+}
+
+section {
+  background-color: white;
+  height: 1130px;
+  position: relative;
+}
+
+#second {
+  position: absolute;
+  top: 10px;
+  padding-top: 90px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 18px;
+  left: 190px;
+  text-align: center;
+}
+.delivery {
+  text-decoration: none;
+  color: rgb(210, 50, 20);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#third {
+  position: absolute;
+  top: 10px;
+  padding-top: 90px;
+  left: 630px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.partner {
+  text-decoration: none;
+  color: rgb(210, 50, 20);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+
+#fourth {
+  position: absolute;
+  top: 10px;
+  padding-top: 94px;
+  left: 1050px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 19px;
+  text-align: center;
+}
+
+.app {
+  text-decoration: none;
+  color: rgb(210, 50, 20);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 17px;
+}
+
+#fifthpic {
+  position: absolute;
+  top: 270px;
+  padding-top: 330px;
+  left: 650px;
+}
+
+#fifth {
+  position: absolute;
+  left: 200px;
+  top: 730px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 19px;
+  text-align: left;
+  text-decoration: none;
+}
+
+#cashapp {
+  background-color: rgb(220, 0, 0);
+  border-radius: 15px;
+  width: 135px;
+  text-align: center;
+  padding: 10px;
+  font-size: 17px;
+}
+
+.getapp {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+article {
+  background-color: rgb(253, 243, 231);
+  height: 780px;
+  position: relative;
+  z-index: -1;
+}
+
+#sixthpic {
+  position: absolute;
+  top: 40px;
+  padding-top: 85px;
+  left: 196px;
+}
+
+#sixth {
+  position: absolute;
+  left: 1000px;
+  top: 195px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 19px;
+  text-align: left;
+  text-decoration: none;
+}
+
+#cashapp2 {
+  background-color: rgb(220, 0, 0);
+  border-radius: 15px;
+  width: 145px;
+  text-align: center;
+  padding: 15px;
+  font-size: 16px;
+}
+.findrestaurants {
+  text-decoration: none;
+  color: white;
+  padding: 9.5px;
+  font-family: sans-serif;
+}
+
+footer {
+  background-color: black;
+  height: 700px;
+  position: relative;
+}
+
+.country {
+  text-decoration: unset;
+  color: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.contri {
+  font-size: 16px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#f1 {
+  position: absolute;
+  left: 200px;
+  top: 30px;
+}
+
+#f2 {
+  position: absolute;
+  left: 400px;
+  top: 60px;
+}
+
+#f3 {
+  position: absolute;
+  left: 600px;
+  top: 60px;
+}
+
+#f4 {
+  position: absolute;
+  left: 800px;
+  top: 30px;
+}
+
+#f5 {
+  position: absolute;
+  left: 1080px;
+  top: 60px;
+}
+
+#f6 {
+  position: absolute;
+  left: 200px;
+  top: 300px;
+}
+
+#f7 {
+  position: absolute;
+  left: 400px;
+  top: 300px;
+}
+
+#f8 {
+  position: absolute;
+  left: 600px;
+  top: 280px;
+}
+
+ #logo {
+  position: absolute;
+  top:605px;
+  left:230px;
+
+}
+
+#f9 {
+  position: absolute;
+  left: 290px;
+  top: 600px;
+  float: left;
+}
+
+.low {
+  color: rgb(220, 220, 220);
+  text-decoration: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+/* mouse over link*/
+a:hover {
+  color: white;
+  text-decoration: underline;
+}
+
+ #store {
+  position: absolute;
+  top:330px;
+  left:1250px;
+ }
+
+  #store2 {
+    position: absolute;
+    top:210px;
+    left:1260px;
+  }
+
+#icons {
+  position: absolute;
+  top: 620px;
+  left: 1300px;
+}
